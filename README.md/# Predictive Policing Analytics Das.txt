@@ -1,0 +1,18 @@
+# Predictive Policing Analytics Dashboard
+
+## Overview
+This project analyzes historical crime data using Power BI and Python to identify crime patterns, trends, and hotspots.
+
+## Tools Used
+- Power BI
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+
+## Features
+- Crime trend analysis
+- Crime type distribution
+- Neighbourhood analysis
+- Crime hotspot map
+- Interactive dashboard
